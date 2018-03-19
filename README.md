@@ -33,3 +33,5 @@ When the user has successfully setup this Taggee, the user can relax and concent
 1. IoT device consists of an [ESP8266][https://www.espressif.com/en/products/hardware/esp8266ex/overview/] , a battery and connecting wires
 2. Android Studio 2.0 (App version - [Kitkat 4.0][https://developer.android.com/about/versions/android-4.4.html/] )
 ```
+## Author
+* Gautham Ravivarma - <https://github.com/catchgautham/>
