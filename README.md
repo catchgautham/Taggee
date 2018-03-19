@@ -29,7 +29,7 @@
 ## Benefits
 After successfully setting up this Taggee, the user can relax and concentrate on his own job in public without caring much about the baggage
 ## Built with
-1. IoT device consists of an <a href="https://www.espressif.com/en/products/hardware/esp8266ex/overview/">ESP8266</a> , a battery and connecting wires
+1. IoT device consisting of an <a href="https://www.espressif.com/en/products/hardware/esp8266ex/overview/">ESP8266</a> , a battery and connecting wires
 2. Android Studio 2.0 (App version - <a href="https://developer.android.com/about/versions/android-4.4.html/">Kitkat 4.0</a>)
 ## Author
 * <a href="https://github.com/catchgautham/">**Gautham Ravivarma**</a>
