@@ -1,21 +1,21 @@
 # Taggee
 ## What is Taggee?
-Taggee is a small, portable Wi-Fi based tracking device<br> 
-When got stuck to the Baggage, it lets you keep your belongings vigilant all the time<br>
-In order to track the Baggage, an Android application has been designed to alert the user regarding the status of Baggage.
+* Taggee is a small, portable Wi-Fi based tracking device<br> 
+* When got stuck to the Baggage, it lets you keep your belongings vigilant all the time<br>
+* In order to track the Baggage, an Android application has been designed to alert the user regarding the status of Baggage.
 ## What has made to invent the Taggee?
-Travelling in public transit is never a happy moment as it is necessary to notice the baggage all the time to prevent it from robbery<br>
-Not only during Travel, it is also applicable when standing in a bus station and looking for a local transit<br>
-People may not be vigilant everytime and sometimes it results in missing of the baggage due to negligence<br>
-In the modern era, if people has to secure baggage on their own then it's to be called as lack of Technology<br>
-So, is the Taggee, an IoT cum an Android application that secures baggage with a tap on the Android phone
+* Travelling in public transit is never a happy moment as it is necessary to notice the baggage all the time to prevent it from robbery<br>
+* Not only during Travel, it is also applicable when standing in a bus station and looking for a local transit<br>
+* People may not be vigilant everytime and sometimes it results in missing of the baggage due to negligence<br>
+* In the modern era, if people has to secure baggage on their own then it's to be called as lack of Technology<br>
+* So, is the Taggee, an IoT cum an Android application that secures baggage with a tap on the Android phone
 ## How it works?
-The IoT device has to be powered on and tagged on to the baggage<br>
-The Android application installed on the Android device, is used to connect with the IoT device<br>
-Now, the baggage is vigilant through the Android device<br>
-In case of robbery or missing the baggage due to negligence, the IoT device goes out of the range of Android device<br>
-Within a moment, this will be notified by the Android device through Android application and alerts the user<br>
-The Alert can be anything like ringtone, vibration, or a combination depends upon the user's preference. 
+* The IoT device has to be powered on and tagged on to the baggage<br>
+* The Android application installed on the Android device, is used to connect with the IoT device<br>
+* Now, the baggage is vigilant through the Android device<br>
+* In case of robbery or missing the baggage due to negligence, the IoT device goes out of the range of Android device<br>
+* Within a moment, this will be notified by the Android device through Android application and alerts the user<br>
+* The Alert can be anything like ringtone, vibration, or a combination depends upon the user's preference. 
 ## Prerequisites
 ```
 1. Taggee - an IoT device
