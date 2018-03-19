@@ -26,7 +26,7 @@
 2. Install the Taggee.apk Android Application into the Android device
 3. Open the Application, and connect with the Taggee hotspot
 4. Now, the Baggage has been secured with the Taggee
-## Advantage
+## Benefits
 When the user has successfully setup this Taggee, the user can relax and concentrate much on his own job in public without caring about the baggage
 ## Built with
 1. IoT device consists of an <a href="https://www.espressif.com/en/products/hardware/esp8266ex/overview/">ESP8266</a> , a battery and connecting wires
